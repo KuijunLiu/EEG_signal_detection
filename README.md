@@ -54,7 +54,14 @@ reference papers:
     
     https://www.sciencedirect.com/science/article/pii/S0925231211003158 (wavelet and eeg signal classification)
     
+    https://iopscience.iop.org/article/10.1088/1741-2552/ab4af6/meta (A novel approach of decoding EEG four-class motor imagery tasks via scout ESI and CNN)
     
+    https://ieeexplore.ieee.org/abstract/document/4022049 (EEG Signal Classification Using Wavelet Feature Extraction and Neural Networks)
+    
+    https://www.frontiersin.org/articles/10.3389/fncom.2017.00103/full (pattern recognition approach)
+    
+    
+  More about EEG signal classification: https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=eeg+signal+classification&oq=EEG+signal+
     
     
     
