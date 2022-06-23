@@ -1,5 +1,11 @@
 # EEG_signal_detection
 
+Dataset:
+
+Matlab Implementation:
+
+Python Implementation:
+
 This project provides algorithms to detect spike and wave pattern in EEG signal.
 
 useful reference code links:
